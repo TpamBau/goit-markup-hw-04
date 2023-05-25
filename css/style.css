@@ -409,6 +409,14 @@ img {
 .team-social-icon {
   fill: #f4f4fd;
 }
+
+/*--------------------------- section 5 ------------------*/
+
+.customers {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 /**--------------------- footer -------------------------- */
 
 .footer {
