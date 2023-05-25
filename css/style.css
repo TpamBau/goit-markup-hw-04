@@ -44,9 +44,9 @@ img {
   max-width: 100%;
 }
 
-/* a {
+a {
   text-decoration: none;
-} */
+}
 
 /* Спискам убрать точки */
 .list {
@@ -426,7 +426,7 @@ img {
   height: 88px;
 }
 
-.costomers-a {
+.customers-a {
   width: 100%;
   height: 100%;
   border: 1px solid #8e8f99;
@@ -434,6 +434,13 @@ img {
   align-items: center;
   justify-content: center;
   color: #8e8f99;
+  display: flex;
+}
+
+.customers-a:hover,
+.customers-a:focus {
+  border-color: #404bbf;
+  color: #404bbf;
 }
 
 /**--------------------- footer -------------------------- */
