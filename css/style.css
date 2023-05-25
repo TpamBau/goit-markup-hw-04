@@ -263,6 +263,10 @@ a {
   width: calc((100% - 72px) / 4);
 }
 
+.icon-characteristics {
+  display: flex;
+}
+
 .second-title {
   font-weight: 500;
   font-size: 20px;
