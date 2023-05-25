@@ -453,6 +453,8 @@ a {
 .footer-a-p {
   padding-left: 40px;
   display: flex;
+  flex-direction: column;
+  align-items: left;
   align-items: baseline;
 
   /* padding-top: 100px;
