@@ -381,7 +381,15 @@ a {
 .social-networks-list {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 24px;
+}
+
+.social-networks-item {
+  width: 40px;
+  height: 40px;
+  background-color: aqua;
+  list-style: none;
 }
 
 /**--------------------- footer -------------------------- */
