@@ -460,9 +460,6 @@ a {
   display: flex;
   flex-direction: column;
   align-items: baseline;
-
-  /* padding-top: 100px;
-  padding-bottom: 100px; */
 }
 
 .footer-logo {
@@ -488,7 +485,6 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.032em;
-  /* letter-spacing: 0.032em; ІНТЕРВАЛ МІЖ СИМВОЛАМИ */
 }
 
 /** ------------------------------ main -------------*/
