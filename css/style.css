@@ -463,7 +463,6 @@ a {
   width: 270px;
   padding-left: 0px;
   padding-right: 0px;
-  margin-right: 120px;
 }
 
 .footer-logo {
@@ -494,6 +493,7 @@ a {
 .footer-flex {
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
 }
 
 /** ------------------------------ main -------------*/
