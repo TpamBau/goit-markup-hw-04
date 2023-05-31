@@ -445,6 +445,7 @@ a {
 }
 
 .customers-icon {
+  fill: currentColor;
 }
 
 /**--------------------- footer -------------------------- */
